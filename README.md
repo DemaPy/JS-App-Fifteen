@@ -1,4 +1,4 @@
-## Установка и запуск проекта
+## How to start
 
 Load project by copy link and paste command git clone "url"
 
