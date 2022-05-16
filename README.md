@@ -1,11 +1,11 @@
 ## Установка и запуск проекта
 
-Скачиваете проект, заходите в него через консоль.
+Load project by copy link and paste command git clone "url"
 
 ```
 npm install
 npm start
 ```
 
-После запуска, заходите в браузер и проверяете, что есть доступ к http://localhost:8080.
+After start command check your browser http://localhost:8080.
 
